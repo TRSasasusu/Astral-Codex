@@ -39,8 +39,24 @@
         "\r\n[fuel geode stability:                              ]\r\n[    -primary fuel geode: damaged (leak detected)   ]\r\n[    -secondary fuel geode: intact                  ]\r\n[    -tertiary fuel geode: ejected in transit       ]\r\n[      -scanning for missing geode                  ]": "［燃料晶洞安定性：　　　　　　　　　　　　　　　　　］\n［　　－第一燃料晶洞：損傷（漏出検出）　　　　　　　］\n［　　－第二燃料晶洞：無傷　　　　　　　　　　　　　］\n［　　－第三燃料晶洞：移動時に欠落　　　　　　　　　］\n［　　　－欠落した晶洞をスキャン　　　　　　　　　　］&lt;i&gt;&lt;/i&gt;",
         "\r\nmissing geode located - activating suppression\r\n|          *                                     |\r\n|            O  x     ----->      (*)            |\r\n|          *                      \\/\\            |\r\nuncontained fuel detected - rupture confirmation\r\n\t\t": "欠落した晶洞を特定 - 抑制をアクティブ化\n￤　　　＊　　　　　　　　　　　　　　　　　　　　　￤\n￤　　　　Ｏ　＊　　―――――＞　　　（＊）　　　　￤\n￤　　　＊　　　　　　　　　　　　　　｜／＼　　　　￤\n含まれていない燃料検出 - 破裂確認&lt;i&gt;&lt;/i&gt;",
 
-        "\r\n[sample collection report:                          ]\r\n[    -item: campfire                                ]\r\n[    -time since retrieval: 120 hr                  ]\r\n[    -retrieving prerecorded note from: explorer    ]\r\n[    	-\"I knew it! Constant of the universe.\"     ]\r\n\t\t": "［サンプル採取レポート：　　　　　　　　　　　　　　］\n［　　－品目：キャンプファイヤー　　　　　　　　　　］\n ［　　－取得経過時間：120 hr　　　　　　　　　　      ］\n［　　－事前録音メモを次から収集中：探索者　　　　　］\n［　　　－＂私は知ってる！宇宙における不変なもの。＂］&lt;i&gt;&lt;/i&gt;",
+        "\r\n[sample collection report:                          ]\r\n[    -item: campfire                                ]\r\n[    -time since retrieval: 120 hr                  ]\r\n[    -retrieving prerecorded note from: explorer    ]\r\n[    	-\"I knew it! Constant of the universe.\"     ]\r\n\t\t": "［サンプル採取レポート：　　　　　　　　　　　　　　］\n［　　－品目：キャンプファイヤー　　　　　　　　　　］\n［　　－取得経過時間：120 hr　　　　　　　　　　      ］\n［　　－事前録音メモを次から収集中：探索者　　　　　］\n［　　　－＂私は知ってる！宇宙における不変なもの。＂］&lt;i&gt;&lt;/i&gt;",
         "\r\n[sample collection report:                          ]\r\n[    -item: contained singularities                 ]\r\n[    -quantity: 4                                   ]\r\n[    -time since retrieval: 120 hr                  ]\r\n[    -status: containment broken - 2 lost in transit]\r\n\t\t": "［サンプル採取レポート：　　　　　　　　　　　　　　］\n［　　－品目：封じ込めた特異点　　　　　　　　　　　］\n［　　－数量：4　　　　　　　　　　　　　　　　　     ］\n［　　－取得経過時間：120 hr　　　　　　　　　　      ］\n［　　－ステータス：封じ込め破損 - 移送時2個紛失         ］&lt;i&gt;&lt;/i&gt;",
         "\r\n[sample collection report:                          ]\r\n[    -item: writing implement/musical instrument    ]\r\n[    -time since retrieval: 2462 M-hr               ]\r\n[    -translation utility: high                     ]\r\n[    -status: language database extracted           ]\r\n\t\t": "［サンプル採取レポート：　　　　　　　　　　　　　　］\n［　　－品目：筆記具／楽器　　　　　　　　　　　　　］\n［　　－取得経過時間：2462 M-hr　　　　　　　　      ］\n［　　－翻訳有用性：高　　　　　　　　　　　　　　　］\n［　　－ステータス：言語データベース抽出済み　　　　］&lt;i&gt;&lt;/i&gt;"
+    },
+    "ShipLogDictionary": {
+        "Lingering Chime": "名残り奏",
+
+        // timber_log.xml
+        "Flashback Vision": "再生される映像",
+        "When I died, I saw a series of images that zoomed in on one of the modules of a Nomai structure.": "私は死んだとき、Nomaiの構造物のモジュールの1つを徐々に拡大していく一連の画像を見た。",
+
+        // giants_log.xml
+        "Anomaly Recording": "異常の記録",
+        "The images I saw when I died led me to the Orbital Probe Cannon's Probe Tracking Module.": "死んだときに見た画像により、私は軌道探査砲の探査機追跡モジュールへ導かれた。",
+        "The Orbital Probe Cannon generated a projection stone linked to a secondary probe which impacted an unknown body matching partial criteria for the Eye of the Universe. I can see the planets orbiting clockwise in the distance.": "軌道探査砲は、宇宙の眼の基準と部分的に一致する未知の天体に衝突した第2探査機と接続されたプロジェクションストーンを生成した。遠くに惑星が時計回りに公転しているのが見えた。",
+        "Anomalous Body": "異常な天体",
+        "The Orbital Probe Cannon detected an unknown body within the solar system that was a partial match for the Eye of the Universe.": "軌道探査砲は、宇宙の眼と部分的に一致する未知の天体をこの星系内で検出した。",
+        "An anomaly resting far below the plane of the solar system. A secondary probe from the Orbital Probe Cannon is found nearby.": "太陽系平面のはるか下に存在する異常体。軌道探査砲からの第2探査機が近くで見つかった。",
+        "I passed through a strange device and the structure revealed itself. I can see ghost matter now!": "奇妙な装置を通過したところ、その構造が明らかとなった。幽霊物質が見えるようになった！"
     }
 }
