@@ -8,6 +8,21 @@
         "Translation Probe Thicket": "翻訳探査機 密生林"
     },
     "DialogueDictionary": {
+        // Slate
+        "Have you noticed the sky's green?": "空が緑色になってるのに気づいてる？",
+        "It looks perfectly normal to me.": "私にはまったくもって普通に見えるぞ。",
+        "Are you sure you're alright? I know Chert and Riebeck both got a little green around the gills before takeoff. But never like this.": "本当に大丈夫か？ChertもRiebeckも出発前にエラ周りが少し緑色になってたのは知ってる。だが、決してそのようなものじゃない。",
+        "Did you know there's a laser pointed at your head?": "あなたの頭にレーザーが照射されてるのを知ってる？",
+        "Like I'm being scanned or something? <![CDATA[<i>Creepy</i>]]>...": "まるで私がスキャンか何かされてるかのように？<![CDATA[<i>気味が悪い</i>]]>…",
+        "I haven't heard that ghost story before, Hatchling. I'll have to use it on Hornfels sometime.": "そんな怪談は初めて聞いたよ、ひよっ子。いつかHornfelsに話してやることにしよう。",
+        "Did your campfire really fly off?": "あなたのキャンプファイヤーは本当に飛んでいったの？",
+        "Sure did. Spookiest thing I've ever seen. It just up and lifted off into the sky all on its own.": "確かにそうだ。私がこれまで見たなかで最も不気味なものだった。あれはそのまま上昇し、ひとりでに空へ飛び去っていった。",
+        "I wonder where it could be now.": "やつは今どこにいるんだろうな。",
+        "I found it.": "それを見つけた。",
+        "You found it! Where!?": "見つけた！どこで！？",
+        "In an invisible alien spacecraft below the sun.": "太陽の下にある目に見えない異星人の宇宙船の中だ。",
+        "Okay. Now I know you're pulling my leg.": "わかった。今ならお前が私をからかってるんだとな。",
+
         "ANNONA: Welcome to <![CDATA[<Color=lightblue>]]>Ember Twin<![CDATA[</Color>]]>, my friends! It is good to see you again after so long apart. Observation: we must develop a better means of interplanetary travel so that we can be properly reunited (perhaps warp travel could be recreated with the right equipment).": "ANNONA:<![CDATA[<Color=lightblue>]]>燃え盛る双子星<![CDATA[</Color>]]>へようこそ！ここまで長かったが、再び会えて嬉しいよ。意見:我々は問題なく合流できるように、惑星間航行をするためのより良い手段を開発しなければならない(おそらくワープ移動は適切な機器で再現できる)。",
         "KOUSA: Foli... You didn't make it out, did you?": "KOUSA:Foli…。あなたはもういなくなってしまったの？",
         "THATCH: Greetings, Aunt Melorae, it has been too long since we were separated. I brought you something. Take care of this tree from <![CDATA[<Color=lightblue>]]>Brittle Hollow<![CDATA[</Color>]]>, let it mark the site of our clan's reunion (do ensure it does not invade this planet's biosphere).": "THATCH:Meloraeおばさん、私たちは離れ離れになってからあまりにも長い年月が経ってしまったわ。こんなものを持ってきたの。<![CDATA[<Color=lightblue>]]>脆い空洞<![CDATA[</Color>]]>の木よ。これを大切にして、私たちの部族の再会の印としてほしいの(この惑星の生態系をおびやかさないようには注意して)。",
