@@ -1,6 +1,7 @@
 {
     "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
     "UIDictionary": {
+        "Thank you for downloading Astral Codec!\n\n\nIn death a new mystery will be revealed.": "",
         "Lingering Chime": "名残り奏",
         "Astral Codec": "アストラル･コーデック",
         "Chime Transmitter": "奏の伝送装置",
@@ -93,6 +94,14 @@
         "\"Archivist was talking again this cycle about needing to test the recipients' technology. It's the mo<![CDATA[<Color=#ff0040>]]>{<![CDATA[</Color>]]>t he's talked in a long time, kept going on about \"the sun\" and \"spheres\" and \"a total eclipse\".\"\r\n\t\t": "＂記録者はこのサイクルでも受信者のテクノロジーをテストする必要があると言っていた。彼が最も長く話してたことは、“太陽”と“球体”と“皆既日食”についてだった。＂&lt;i&gt;&lt;/i&gt;",
         "\"Wait... but what about marshmallows?\"\r\n\t\t": "＂待って…だけどマシュマロはどうだろう？＂&lt;i&gt;&lt;/i&gt;",
         "\"It's strange how much he insists on this additional safeg<![CDATA[<Color=#ff0040>]]>.<![CDATA[</Color>]]>ard when he's usually so worried about any possible chance that the thread <![CDATA[<Color=#ff0040>]]>-<![CDATA[</Color>]]>e're starting might break.\"": "＂我々の始めている糸が絶えるあらゆる可能性をよく懸念してる彼なのに、この追加の安全装置をここまで主張するなんて奇妙だ。＂&lt;i&gt;&lt;/i&gt;",
+
+        // Chime on Interloper
+        "fuel unstable - deploying liquid to neutralize\r\n| progress 00%: -------------------------------- |\r\n| progress 36%: ||||||||||||-------------------- |\r\n| progress 84%: |||||||||||||||||||||||||||----- |\r\nfuel remains fatal - liquid frozen into ice\r\n": "燃料不安定 - 中和用液体を展開\n￤進行状況 00%：░░░░░░░░░░░░░░░░░░░　￤\n￤進行状況 36%：███████░░░░░░░░░░░░　￤\n￤進行状況 84%：████████████████░░░　￤\n燃料は依然として致命的 - 液体は凍結&lt;i&gt;&lt;/i&gt;",
+        "[warning: breach scenario in progress               ]\r\n[retrieving prerecorded message...                  ]\r\n[    -time since recording: 125,268 G-hr            ]\r\n[    -author: scientist                             ]\r\n[evacuate immediately                               ]\r\n\t\t": "［注意：破裂シナリオ進行中　　　　　　　　　　　　　］\n［　　－事前録音メッセージを収集中…　　　　　　　　］\n［　　－記録経過時間：125,268 G-hr　　　　　　　　 ］\n［　　－作成者：科学者　　　　　　　　　　　　　　　］\n［至急避難せよ　　　　　　　　　　　　　　　　　　　］&lt;i&gt;&lt;/i&gt;",
+        "\"If you are reading this message, something has gone terribly wrong. The fuel contained within this geode is exceedingly dangerous and contact with it must be avoided at all costs. I can only hope that any reader is aquatic and might thus escape the blast.\"\r\n\t\t": "＂もしこのメッセージを読んでいるなら、何かひどく不具合が発生してるということです。この晶洞内に含まれる燃料は極めて危険なので、接触は絶対に避けなければなりません。私にできるのは、この読者が水生生物であり、そのために爆風から逃れられたのだと祈ることだけです。＂&lt;i&gt;&lt;/i&gt;",
+        "\"You must understand that despite the risks, despite the terrible acts committed using it on our home body, this fuel was the only viable option: easily compressed and energy-dense enough to last the eons necessary.\"\r\n\t\t": "＂リスクを承知で、そして私たちの故郷の天体においてそれを使用した恐ろしい行為があったにもかかわらず、この燃料が唯一の実行可能な選択肢だったのだと理解する必要があります:簡単に圧縮でき、必要な永続性を維持するのに十分なエネルギー密度があります。＂&lt;i&gt;&lt;/i&gt;",
+        "\"Despite the other two's objections, our mission is too important to risk. Even should the unthinkable happen and a breach occur, a successful transmission will still have been worth it.\"\r\n\t\t": "＂他の2人の反対もありましたが、私たちの使命はリスクを補って余りあるほど重要です。たとえ予期せぬことが起こり漏出が発生したとしても、送信が成功したならばそれだけの価値があるのです。＂&lt;i&gt;&lt;/i&gt;",
+        "\"... I am sorry.\"": "＂…ごめんなさい。＂&lt;i&gt;&lt;/i&gt;",
 
         // Lingering Chime
         "\r\n[system status report:                              ]\r\n[    -neural link status: online                    ]\r\n[      -connected to: hatchling                     ]\r\n[    -space-time stabilizer: active                 ]\r\n[    -probe communication transmitter: operational  ]": "［システムステータスレポート：　　　　　　　　　　　］\n［　　－神経接続ステータス：オンライン　　　　　　　］\n［　　　－接続先：ひよっ子　　　　　　　　　　　　　］\n［　　－時空安定装置：アクティブ　　　　　　　　　　］\n［　　－探査機通信装置：動作可能　　　　　　　　　　］&lt;i&gt;&lt;/i&gt;",
