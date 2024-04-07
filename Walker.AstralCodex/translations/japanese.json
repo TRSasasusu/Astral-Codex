@@ -35,6 +35,14 @@
         "I whacked at it with my marshmallow stick and it sounded like I hit something. But it just kept going. It even took the warp cores I found too!": "マシュマロスティックで叩いたら何かに当たったような音がした。だがそれは続いたんだ。見つけたワープコアすら奪っていった！&lt;i&gt;&lt;/i&gt;",
         "That can't have been real, right? I must have had too much sap wine recently. I'm going back to the village and never camping here again. Hornfels can make one of the other travelers go find a core.": "現実であるはずがないよな？最近樹液ワインを飲みすぎたに違いない。私は村へ戻り、二度とここでキャンプをすることはないだろう。Hornfelsは他の旅人にコアを探しに行かせればいい。",
 
+        // Chert
+        "Chert’s Research Notes — property of Chert!": "Chertの調査メモ — Chertの私物！",
+        "This is the only known Nomai construction on <![CDATA[<Color=lightblue>]]>Dark Bramble<![CDATA[</Color>]]>. Interestingly, its material places it as one of the newest Nomai structures I've explored.": "これは<![CDATA[<Color=lightblue>]]>闇のイバラ<![CDATA[</Color>]]>で知られている唯一のNomaiの建造物だ。興味深いことに、資料によればこれは私が調査した中で最も新しいNomaiの建造物の1つとされている。",
+        "It looks like construction was never finished. Was it abandoned? Or did something happen to the Nomai here?": "建築はまだ終わってないように見える。放棄されたのか？それともここでNomaiに何かあったのか？",
+        "The probe down on the observation deck is clearly used for research of some sort. But what were they studying?": "展望台にある探査機は明らかに何らかの研究に使われている。だが、彼らは何を研究していたのだろう？",
+        "There's also that device mounted to the probe. I know I've seen devices like it in other Nomai ruins but this one seems to be deactivated.": "探査機にはあの装置も取り付けられている。他のNomaiの遺跡でも似たようなものを見たことがあるが、この装置は無効化されてるようだ。",
+        "Oh hey, I just spotted a supernova while taking down camp. Those are normally pretty rare. Neat!": "ああそうだ、キャンプの撤収中に超新星を発見した。普段それはかなり珍しいんだ。運がいい！",
+
         // ParadoxSelf
         "It worked! We increased the population!": "うまくいった！人口を増やせた！",
         "Glad I could help! Teamwork makes the dream work after all.": "役に立ててよかった！やはりチームワークが夢を実現させるんだ。",
