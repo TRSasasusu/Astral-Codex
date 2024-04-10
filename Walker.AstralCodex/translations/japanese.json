@@ -140,8 +140,9 @@
         "We used the <![CDATA[<Color=orange>]]>Astral Codec<![CDATA[</Color>]]> to transmit every story, every piece of information we could record before the end. If you're reading this, our message must have made it through the vortex intact.": "我々は<![CDATA[<Color=orange>]]>アストラル･コーデック<![CDATA[</Color>]]>を用いて、終わりを迎える前に記録できたあらゆる物語と情報を送信した。あなたがこれを読んでいるなら、我々のメッセージはそのまま渦を通過したに違いない。&lt;i&gt;&lt;/i&gt;",
         "Take it. Add your own stories and knowledge, and pass it onwards through the vortex in whatever way you can. Together we can keep the thread of memory alive.\r\n- Explorer": "受け取るんだ。あなた自身の物語や知識を加え、できる限りの方法で渦の先へ届けるんだ。我々は力を合わせれば、記憶の糸を紡ぎ続けることができる。\n- 探索者&lt;i&gt;&lt;/i&gt;",
         "tests passed - codec safeguards disabled\r\n|                      \\ | /                     |\r\n|                    --- o ---                   |\r\n|                      / | \\                     |\r\ncore activated - insert device for download\r\n": "テストに合格 - コーデックの安全装置を無効化\n￤　　　　　　　　　　　＼｜／　　　　　　　　　　　￤\n￤　　　　　　　　　　――ｏ――　　　　　　　　　　￤\n￤　　　　　　　　　　　／｜＼　　　　　　　　　　　￤\nコアを起動 - ダウンロード用の装置を差し込んでください&lt;i&gt;&lt;/i&gt;",
-        "codec downloaded successfully\r\n|     *     *    *       |    *     *    *     * |\r\n| *     *      *        \\|/      *         *     |\r\n|  *         *     *   -----           *     *   |\r\npass it onwards\r\n": "コーデックのダウンロード成功\n￤　　＊　　＊　　＊　　　｜　　＊　　＊　＊　　＊　￤\n￤＊　　＊　　　＊　　　＼｜／　　　＊　　　＊　　　￤\n￤　＊　　　　＊　　＊　―――　　　　　＊　　＊　　￤\nその先へ繋げてほしい。&lt;i&gt;&lt;/i&gt;",
+        "codec downloaded successfully\r\n|     *     *    *       |    *     *    *     * |\r\n| *     *      *        \\|/      *         *     |\r\n|  *         *     *   -----           *     *   |\r\npass it onwards\r\n": "コーデックのダウンロード成功\n￤　　＊　　＊　　＊　　　｜　　＊　　＊　＊　　＊　￤\n￤＊　　＊　　　＊　　　＼｜／　　　＊　　　＊　　　￤\n￤　＊　　　　＊　　＊　―――　　　　　＊　　＊　　￤\nその先へ届けてほしい。&lt;i&gt;&lt;/i&gt;",
 
+        // Addendum
         "Addendum by: The Hatchling": "追記: ひよっ子",
         "<![CDATA[<i>Remember the Nomai...</i>]]>": "<![CDATA[<i>Nomaiを憶えていてほしい…</i>]]>",
         "The Nomai were true scholars, always curious about the nature of our universe. Relics of their search for knowledge are spread throughout this solar system.": "Nomaiは真の学者であり、常に宇宙の本質に興味を持っていた。知識を追い求めた彼らの遺跡は、この太陽系全体に広がっている。&lt;i&gt;&lt;/i&gt;",
@@ -152,15 +153,31 @@
         "<![CDATA[<i>Mourn the Nomai's fate...</i>]]>": "<![CDATA[<i>Nomaiの運命を悼んでほしい…</i>]]>",
         "Tragically, the Nomai that settled in this solar system were wiped out by an explosion of ghost matter released by a damaged fuel geode from the Lingering Chime.": "悲劇的なことにこの太陽系に定住していたNomaiは、名残り奏の損傷した燃料晶洞から放出された幽霊物質の爆発により全滅した。&lt;i&gt;&lt;/i&gt;",
         "They would have been fascinated by this discovery if they had survived.": "もしも彼らが生き残っていたならば、この発見に魅了されただろうに。&lt;i&gt;&lt;/i&gt;",
-        "<![CDATA[<i>Recall the Strangers...</i>]]>": "<![CDATA[<i>流れ者の住人達を思い出してほしい…</i>]]>",
-        "The Strangers were archivists, preserving information at any cost. But their fear of the Eye led them to hide from the world inside a simulation of their own creation. Until one of them released the signal for the Nomai to find, and was imprisoned for their actions.": "流れ者の住人達は記録者であり、どのような犠牲を払っても情報を保存していた。しかし、眼に対する恐怖から、彼らは自身で創造した模擬現実の中に身を隠すようになった。そうしてそのうちの一人が信号を解放してNomaiが見つけることとなり、その行為のために投獄されるまでは。&lt;i&gt;&lt;/i&gt;",
+        "<![CDATA[<i>Recall the Strangers...</i>]]>": "<![CDATA[<i>流れ者の住人たちを思い出してほしい…</i>]]>",
+        "The Strangers were archivists, preserving information at any cost. But their fear of the Eye led them to hide from the world inside a simulation of their own creation. Until one of them released the signal for the Nomai to find, and was imprisoned for their actions.": "流れ者の住人たちは記録者であり、どのような犠牲を払っても情報を保存していた。しかし、眼に対する恐怖から、彼らは自身で創造した模擬現実の中に身を隠すようになった。そうしてそのうちの一人が信号を解放してNomaiが見つけることとなり、その行為のために投獄されるまでは。&lt;i&gt;&lt;/i&gt;",
         "I met The Prisoner but was unable to free them from their fate.": "私は囚人に会ったが、その人物を運命から解放することはできなかった。&lt;i&gt;&lt;/i&gt;",
         "<![CDATA[<i>Reflect on Hearthians...</i>]]>": "<![CDATA[<i>Hearthianを顧みてほしい…</i>]]>",
         "I am a Hearthian. A young species but the bravest I know. We play music and roast marshmallows with friends around a campfire.": "私はHearthian。若い種族だが、私が知る中で最も勇敢な種族だ。私たちは友人たちとキャンプファイヤーを囲んで、音楽を演奏し、マシュマロを焼いていた。&lt;i&gt;&lt;/i&gt;",
         "Despite the <![CDATA[<i>many</i>]]> dangers of the solar system we call home, our space program has recently allowed us to take our first steps towards the stars.": "私たちが故郷と呼ぶ太陽系には<![CDATA[<i>多くの</i>]]>危険があるにもかかわらず、私たちの宇宙プログラムにより、最近になって星々への第一歩を踏み出すことができた。&lt;i&gt;&lt;/i&gt;",
         "<![CDATA[<i>Finally, yourself...</i>]]>": "<![CDATA[<i>最後に、私自身のことを…</i>]]>",
-        "Trapped within a time loop of the Nomai's creation, I have uncovered the deepest mysteries of the Outer Wilds! I will do what I can to make sure they are not forgotten.": "Nomaiにより創られたタイムループの中に囚われた私は、Outer Wildsの最も深い謎を明らかにした！彼らが忘れられることのないように、私はできる限りのことをするつもりだ。",
-        "- Signed, The Hatchling": "- 署名: ひよっ子"
+        "Trapped within a time loop of the Nomai's creation, I have uncovered the deepest mysteries of the Outer Wilds! I will do what I can to make sure they are not forgotten.": "Nomaiにより創られたタイムループの中に囚われた私は、Outer Wildsの最も深い謎を明らかにした！彼らが忘れられることのないように、私はできる限りのことをするつもりだ。&lt;i&gt;&lt;/i&gt;",
+        "- Signed, The Hatchling": "- 署名: ひよっ子&lt;i&gt;&lt;/i&gt;",
+
+        // Eye
+        "A little scout just like this one is now home to the Astral Codec: a means of transmitting information via the Eye, passed to us from the universe before ours.": "このようなリトル･スカウトは、現在アストラル･コーデックが存在する場所となっている:それは私たちの前の宇宙から届けられた、眼を介して情報を送信する手段である。&lt;i&gt;&lt;/i&gt;",
+        "Although the Codec's authors are long gone, they have given us the opportunity to save the story of this universe from being lost to the depths of time.": "コーデックの作成者たちはもう亡くなって久しいが、彼らはこの宇宙の物語が時の深淵に失われないよう救う機会を私たちに与えた。&lt;i&gt;&lt;/i&gt;",
+        "If it is released into the Eye, the Astral Codec will pass onwards into the next universe, preserving a thread of memory for eons to come.": "それが眼へ放たれると、アストラル･コーデックは次の宇宙へ届けられ、記憶の糸は永遠に保存されるだろう。&lt;i&gt;&lt;/i&gt;",
+
+        "ARCHIVIST: Signal transmitter online. This place will not be easily lost.": "記録者:信号送信機がオンラインだ。この場所は簡単には失われない。&lt;i&gt;&lt;/i&gt;",
+        "SCIENTIST: Then our part has reached its end. We've sent our spark upon the unknowable sea. All that remains is to wait - and to hope.": "科学者:こうして私たちの役目は終わった。私たちは未知の海に輝きを送った。残っているのは待つこと - そして希望だけ。&lt;i&gt;&lt;/i&gt;",
+        "SCIENTIST: Our universe may now be cold but the experiences it contained will breath life into the next. With luck the Astral Codec will soon hurtle into a newborn universe, preserving the past and recording the future.": "科学者:私たちの宇宙は今は冷たいかもしれないけれど、そこに含まれる経験が次の宇宙に生命を吹き込むはず。運が良ければアストラル･コーデックはすぐに新たに生まれた宇宙へ突入し、過去を保存しつつ未来を記録する。&lt;i&gt;&lt;/i&gt;",
+        "EXPLORER: I hope the next universe is different. More curious y'know. More willing to seek out knowledge amongst the stars, like we did.": "探索者:次の宇宙が違うことを願っている。より興味をそそられるだろう？私たちがそうだったように、星々の間で知識を探求する意欲がより高まるだろう。&lt;i&gt;&lt;/i&gt;",
+        "ARCHIVIST: I desire for them to preserve our story. I fear that they will not - that we are but a dwindling specter of a forgotten people.": "記録者:彼らには我々の物語を保存してほしいと望んでいる。私は彼らがそうしないのではないかと恐れている - 我々はただ忘れられた者たちの消えゆく亡霊に過ぎないのではないか。&lt;i&gt;&lt;/i&gt;",
+        "EXPLORER: I hope it inspires them. Maybe they'll tell it to each other around a campfire someday and it will remind them that the astral sea isn't as lonely as it appears.": "探索者:それが彼らを鼓舞することを願っている。おそらく彼らは、いつかキャンプファイヤーを囲みながらそのことをお互いに話し、星の海は見た目ほど孤独ではないのだと思い起こすだろう。&lt;i&gt;&lt;/i&gt;",
+        "SCIENTIST: I hope that they will broaden it. It could become the prologue of a saga stretching trillions of years across dozens of universes.": "科学者:彼らがそれを広げてくれると願ってるわ。そして数十の宇宙にわたる数兆年規模の長編物語におけるプロローグとなるかもしれない。&lt;i&gt;&lt;/i&gt;",
+        "EXPLORER: One day, someone else will stand here in this place. They'll be facing the end of all they know. I hope they find this echo. I hope they feel comforted knowing that we came before, that they are not alone.": "探索者:いつの日か、他の誰かがこの場所に立つだろう。彼らは自分の知るすべてが終わることに直面する。このエコーを彼らが見つけてくれることを願っている。私たちが以前来たこと、そして独りではないことを知って、彼らが安心してくれたらと願っている。&lt;i&gt;&lt;/i&gt;",
+        "SCIENTIST: The time has come, friends. Shall we collapse the possibilities laid before us? A final coda to a dead universe.": "科学者:その時が来たわ。私たちの前にある可能性を崩壊させましょう？死んだ宇宙に贈る最後の終結部よ。&lt;i&gt;&lt;/i&gt;",
+        "EXPLORER: And a prelude to what comes next!": "探索者:そして、次に来ることへの前奏曲だ！&lt;i&gt;&lt;/i&gt;"
     },
     "ShipLogDictionary": {
         "Lingering Chime": "名残り奏",
