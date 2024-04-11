@@ -194,6 +194,19 @@
         "Anomalous Body": "異常な天体",
         "The Orbital Probe Cannon detected an unknown body within the solar system that was a partial match for the Eye of the Universe.": "軌道探査砲は、宇宙の眼と部分的に一致する未知の天体をこの星系内で検出した。",
         "An anomaly resting far below the plane of the solar system. A secondary probe from the Orbital Probe Cannon is found nearby.": "太陽系平面のはるか下に存在する異常体。軌道探査砲からの第2探査機が近くで見つかった。",
-        "I passed through a strange device and the structure revealed itself. I can see ghost matter now!": "奇妙な装置を通過したところ、その構造が明らかとなった。幽霊物質が見えるようになった！"
+        "I passed through a strange device and the structure revealed itself. I can see ghost matter now!": "奇妙な装置を通過したところ、その構造が明らかとなった。幽霊物質が見えるようになった！",
+
+        // ember_twin_log.xml
+        "Reunion Memorial": "再会の記念樹",
+        "Ember Twin Signal": "燃え盛る双子星の信号",
+        "I detected a chiming signal coming from Ember Twin.": "燃え盛る双子星から奏でられる信号を検出した。",
+        "A memorial to the Nomai reunion near the gravity cannon on Ember Twin.": "燃え盛る双子星の重力砲付近にあるNomaiの再会の記念樹。",
+        "A Nomai named Poke believed the Ash Twin Project could be used to duplicate matter, or even people. She theorized about the possibility of increasing the Nomai population using this method.": "Pokeという名のNomaiは、灰の双子星プロジェクトを使えば物質、さらには生命さえも複製できると信じていた。彼女は、この方法を利用してNomaiの人口を増やす実現性について理論を立てていた。",
+        "The Nomai feared that a shuttle colliding with Ash Twin would be fatal for any passengers.": "Nomaiはシャトルが灰の双子星と衝突すれば乗客にとって致命傷になるのではないかと懸念した。",
+        "I found a set of crystalline cairns on Ember Twin that contain a research log written by someone called Scientist.": "私は燃え盛る双子星で、科学者と呼ばれる誰かが書いた研究ログを含む一連の結晶製ケルンを見つけた。",
+        "One of the crystalline cairns describe two safeguards used to protect a transmission sent through something called the Astral Codec. One safeguard tests spacefaring technology and expansion beyond one's home planet. The other tests for a culture of sufficient scale.": "結晶製ケルンの1つには、アストラル･コーデックと呼ばれるものを通じて送られる通信を保護するために使用される2つの安全装置について記述されている。1つの安全装置は、宇宙飛行技術と故郷の惑星を超えた拡張具合をテストする。もう1つは、十分な規模の文化があるかどうかをテストする。",
+        "A crystalline cairn describes a third safeguard proposed by someone named Archivist. The details of this safeguard are not described on the cairn.": "結晶製ケルンには記録者という名前の誰かにより提案された3番目の安全装置について触れられている。この安全装置の詳細はそのケルンには記載されていない。",
+        "Symbols are scattered throughout the message written on the crystalline cairn.": "結晶製ケルンに書かれたメッセージ全体にシンボルが散りばめられている。",
+        "After reading one of the cairns, a hologram was projected depicting three sets of symbols: several rectangles, a large circle, and several circular symbols.": "ケルンの1つを読んだ後、3つのシンボルの集合を描いたホログラムが投影された:それはいくつかの長方形、1つの大きな円、およびいくつかの円形のシンボル。"
     }
 }
