@@ -2,6 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
     "UIDictionary": {
         "Thank you for downloading Astral Codec!\n\n\nIn death a new mystery will be revealed.": "Astral Codecをダウンロードしていただきありがとうございます！\n\n\n死によって新たな謎が明かされます。",
+        "Secondary Probe": "第2探査機",
         "Lingering Chime": "名残り奏",
         "Astral Codec": "アストラル･コーデック",
         "Chime Transmitter": "奏の伝送装置",
@@ -177,7 +178,7 @@
         "SCIENTIST: I hope that they will broaden it. It could become the prologue of a saga stretching trillions of years across dozens of universes.": "科学者:彼らがそれを広げてくれると願ってるわ。そして数十の宇宙にわたる数兆年規模の長編物語におけるプロローグとなるかもしれない。&lt;i&gt;&lt;/i&gt;",
         "EXPLORER: One day, someone else will stand here in this place. They'll be facing the end of all they know. I hope they find this echo. I hope they feel comforted knowing that we came before, that they are not alone.": "探索者:いつの日か、他の誰かがこの場所に立つだろう。彼らは自分の知るすべてが終わることに直面する。このエコーを彼らが見つけてくれることを願っている。私たちが以前来たこと、そして独りではないことを知って、彼らが安心してくれたらと願っている。&lt;i&gt;&lt;/i&gt;",
         "SCIENTIST: The time has come, friends. Shall we collapse the possibilities laid before us? A final coda to a dead universe.": "科学者:その時が来たわ。私たちの前にある可能性を崩壊させましょう？死んだ宇宙に贈る最後の終結部よ。&lt;i&gt;&lt;/i&gt;",
-        "EXPLORER: And a prelude to what comes next!": "探索者:そして、次に来ることへの前奏曲だ！&lt;i&gt;&lt;/i&gt;"
+        "EXPLORER: And a prelude to what comes next!": "探索者:そして、次に来ることへの前奏曲でもある！&lt;i&gt;&lt;/i&gt;"
     },
     "ShipLogDictionary": {
         "Lingering Chime": "名残り奏",
