@@ -212,6 +212,16 @@
         // ash_twin_log.xml
         "Temporal Cloning Research": "一時的なクローン研究",
         "Nomai named Root and Poke discussed the possibility of using the Ash Twin Project to duplicate themselves while they installed the project's advanced warp core.": "RootおよびPokeという名のNomaiは、灰の双子星プロジェクトの先進的ワープコアを設置する間、プロジェクトを利用して自分自身を複製できる可能性について話し合っていた。",
-        "A Nomai named Poke considered what would happen if someone entered the core of the Ash Twin Project when it activated. She believed it would create some kind of temporal clone, causing an increase in the clan's population during the next loop.": "Pokeという名のNomaiは、灰の双子星プロジェクトが起動したときそのコアに誰かが入ったらどうなるかを考えた。彼女は、これによりある種の一時的なクローンが作成され、次のループの間は部族の人口が増加するであろうと信じていた。"
+        "A Nomai named Poke considered what would happen if someone entered the core of the Ash Twin Project when it activated. She believed it would create some kind of temporal clone, causing an increase in the clan's population during the next loop.": "Pokeという名のNomaiは、灰の双子星プロジェクトが起動したときそのコアに誰かが入ったらどうなるかを考えた。彼女は、これによりある種の一時的なクローンが作成され、次のループの間は部族の人口が増加するであろうと信じていた。",
+
+        // dark_bramble_log.xml
+        "Dark Bramble Research Station": "闇のイバラの研究所",
+        "Dark Bramble Signal": "闇のイバラの信号",
+        "I detected a chiming signal coming from the surface of Dark Bramble.": "闇のイバラの地表から奏でられる信号を検出した。",
+        "A Nomai research station on the surface of Dark Bramble.": "闇のイバラの地表にあるNomaiの研究所。",
+        "The Nomai discovered that when an object enters Dark Bramble, the planet's interior manifests inside a separate pocket of space elsewhere within the Solar System. They noted that this phenomenon repels objects around it.": "Nomaiは、物体が闇のイバラに入ると惑星の内部が太陽系内のどこか離れた空間内に現れることを発見した。彼らはこの現象が周囲の物体と反発することを記述していた。",
+        "I found a crystalline scroll on Dark Bramble that contains a log written by someone called Explorer. The log mentions a transmission for something called the Astral Codec. Someone called Archivist discussed a safeguard to test technology that involved the sun.": "探索者と呼ばれる誰かにより書かれたログが含まれる結晶製スクロールを闇のイバラで見つけた。ログにはアストラル･コーデックと呼ばれるものの通信について言及があった。記録者と呼ばれる誰かは太陽に関係する技術をテストする安全装置について議論していた。",
+        "Symbols are scattered throughout the message stored on the crystalline scroll.": "結晶製スクロールに保存されたメッセージ全体にシンボルが散りばめられている。",
+        "When I picked up a crystalline scroll, a hologram was projected depicting the solar system. An object traveled from the edge of the solar system to a point below the sun.": "結晶製スクロールを拾ったとき、太陽系を描いたホログラムが投影された。ある物体が太陽系の端から太陽の下の点まで移動していた。"
     }
 }
