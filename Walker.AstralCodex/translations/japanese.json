@@ -29,7 +29,7 @@
         "Oh well. Here we go anyways. Slate's Expedition Log: Day 1": "まあいい。とにかく行こう。Slateの探索記録:1日目",
         "I'm out here by the ol' Nomai ruins to see if I can scrounge up an intact warp core or two for the hatchling. Gotta get their scout properly equipped before they set out for the stars.": "私は、ひよっ子のために無傷のワープコアを1つか2つばかり漁りに古いNomaiの遺跡のそばに来ている。星々に向けて出発する前にあいつのスカウトに適切な装備を整えてやらなくちゃならない。&lt;i&gt;&lt;/i&gt;",
         "I found some pretty quickly by that weird spiral ruin. Four of them were even still intact. Jackpot!": "あの奇妙な螺旋遺跡のそばですぐにいくつか見つかった。そのうち4つはまだ無傷だった。大当たりだ！",
-        "I maaaay have gotten a bit too late of a start though and the sun's already setting, so I might as well make camp here before heading back. Good thing I brought plenty of marshmallows, eh?": "まあ出発が少し遅れてしまったし太陽ももう沈んでるので、帰る前にここでキャンプをした方がいいかもしれない。マシュマロをたくさん持ってきてよかっただろう？",
+        "I maaaay have gotten a bit too late of a start though and the sun's already setting, so I might as well make camp here before heading back. Good thing I brought plenty of marshmallows, eh?": "まあ出発が少し遅れてしまったし太陽ももう沈んでるので、帰る前にここでキャンプした方がいいかもしれないなあ。マシュマロをたくさん持ってきてよかっただろう？",
         "<![CDATA[<size=60>]]>Ahhhhhhhhh!<![CDATA[</size>]]> What's going on?! Wait no, get back here! Take that!": "<![CDATA[<size=60>]]>ああああああ！<![CDATA[</size>]]>何が起きてる？！待って、いや、ここに戻れ！これでもか！",
         "Ok. <![CDATA[<Pause=0.5>]]>Calm down. <![CDATA[<Pause=0.5>]]>What the heck? What was that thing?": "ああ。<![CDATA[<Pause=0.5>]]>落ち着け。<![CDATA[<Pause=0.5>]]>いったい何だ？あれは何だったんだ？",
         "I woke up to this faint ringing noise, almost too quiet to hear. When I opened my eyes, my campfire was moving. It just... lifted into the air like something had grabbed it. Then it floated off into the sky like some kind of ghost.": "私はこのかすかな鳴り響く音で目が覚めたが、いやあまりにも静かでほとんど聞こえなかったが。目を開けるとキャンプファイヤーが動いていたんだ。それはただ…何かにつかまれたかのように空中に持ち上がった。それからは幽霊かのように空へ飛び去っていった。",
@@ -207,6 +207,11 @@
         "One of the crystalline cairns describe two safeguards used to protect a transmission sent through something called the Astral Codec. One safeguard tests spacefaring technology and expansion beyond one's home planet. The other tests for a culture of sufficient scale.": "結晶製ケルンの1つには、アストラル･コーデックと呼ばれるものを通じて送られる通信を保護するために使用される2つの安全装置について記述されている。1つの安全装置は、宇宙飛行技術と故郷の惑星を超えた拡張具合をテストする。もう1つは、十分な規模の文化があるかどうかをテストする。",
         "A crystalline cairn describes a third safeguard proposed by someone named Archivist. The details of this safeguard are not described on the cairn.": "結晶製ケルンには記録者という名前の誰かにより提案された3番目の安全装置について触れられている。この安全装置の詳細はそのケルンには記載されていない。",
         "Symbols are scattered throughout the message written on the crystalline cairn.": "結晶製ケルンに書かれたメッセージ全体にシンボルが散りばめられている。",
-        "After reading one of the cairns, a hologram was projected depicting three sets of symbols: several rectangles, a large circle, and several circular symbols.": "ケルンの1つを読んだ後、3つのシンボルの集合を描いたホログラムが投影された:それはいくつかの長方形、1つの大きな円、およびいくつかの円形のシンボル。"
+        "After reading one of the cairns, a hologram was projected depicting three sets of symbols: several rectangles, a large circle, and several circular symbols.": "ケルンの1つを読んだ後、3つのシンボルの集合を描いたホログラムが投影された:それはいくつかの長方形、1つの大きな円、およびいくつかの円形のシンボル。",
+
+        // ash_twin_log.xml
+        "Temporal Cloning Research": "一時的なクローン研究",
+        "Nomai named Root and Poke discussed the possibility of using the Ash Twin Project to duplicate themselves while they installed the project's advanced warp core.": "RootおよびPokeという名のNomaiは、灰の双子星プロジェクトの先進的ワープコアを設置する間、プロジェクトを利用して自分自身を複製できる可能性について話し合っていた。",
+        "A Nomai named Poke considered what would happen if someone entered the core of the Ash Twin Project when it activated. She believed it would create some kind of temporal clone, causing an increase in the clan's population during the next loop.": "Pokeという名のNomaiは、灰の双子星プロジェクトが起動したときそのコアに誰かが入ったらどうなるかを考えた。彼女は、これによりある種の一時的なクローンが作成され、次のループの間は部族の人口が増加するであろうと信じていた。"
     }
 }
