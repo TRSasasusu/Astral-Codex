@@ -106,12 +106,12 @@
 
         // Chime on Interloper
         "fuel unstable - deploying liquid to neutralize\r\n| progress 00%: -------------------------------- |\r\n| progress 36%: ||||||||||||-------------------- |\r\n| progress 84%: |||||||||||||||||||||||||||----- |\r\nfuel remains fatal - liquid frozen into ice\r\n": "燃料不安定 - 中和用液体を展開\n￤進行状況 00%：░░░░░░░░░░░░░░░░░░░░░░░　￤\n￤進行状況 36%：█████░░░░░░░░░░░░░░░░    ￤\n￤進行状況 84%：█████████████░░░░░    ￤\n燃料は依然として致命的 - 液体は凍結&lt;i&gt;&lt;/i&gt;",
-        "[warning: breach scenario in progress               ]\r\n[retrieving prerecorded message...                  ]\r\n[    -time since recording: 125,268 G-hr            ]\r\n[    -author: scientist                             ]\r\n[evacuate immediately                               ]\r\n\t\t": "［注意：破裂シナリオ進行中　　　　　　　　　　　　　］\n［　　－事前録音メッセージを収集中…　　　　　　　　］\n［　　－記録経過時間：125,268 G-hr　　　　　　　　 ］\n［　　－作成者：科学者　　　　　　　　　　　　　　　］\n［至急避難せよ　　　　　　　　　　　　　　　　　　　］&lt;i&gt;&lt;/i&gt;",
+        "[warning: breach scenario in progress               ]\r\n[retrieving prerecorded message...                  ]\r\n[    -time since recording: 125,268 G-hr            ]\r\n[    -author: scientist                             ]\r\n[evacuate immediately                               ]\r\n\t\t": "［注意：拡散シナリオ進行中　　　　　　　　　　　　　］\n［　　－事前録音メッセージを収集中…　　　　　　　　］\n［　　－記録経過時間：125,268 G-hr　　　　　　　　 ］\n［　　－作成者：科学者　　　　　　　　　　　　　　　］\n［至急避難せよ　　　　　　　　　　　　　　　　　　　］&lt;i&gt;&lt;/i&gt;",
         "\"If you are reading this message, something has gone terribly wrong. The fuel contained within this geode is exceedingly dangerous and contact with it must be avoided at all costs. I can only hope that any reader is aquatic and might thus escape the blast.\"\r\n\t\t": "＂もしこのメッセージを読んでいるなら、何かひどく不具合が発生してるということです。この晶洞内に含まれる燃料は極めて危険なので、接触は絶対に避けなければなりません。私にできるのは、この読者が水生生物であり、そのために爆風から逃れられたのだと祈ることだけです。＂&lt;i&gt;&lt;/i&gt;",
         "\"You must understand that despite the risks, despite the terrible acts committed using it on our home body, this fuel was the only viable option: easily compressed and energy-dense enough to last the eons necessary.\"\r\n\t\t": "＂リスクを承知で、そして私たちの故郷の天体においてそれを使用した恐ろしい行為があったにもかかわらず、この燃料が唯一の実行可能な選択肢だったのだと理解する必要があります:簡単に圧縮でき、必要な永続性を維持するのに十分なエネルギー密度があります。＂&lt;i&gt;&lt;/i&gt;",
-        "\"Despite the other two's objections, our mission is too important to risk. Even should the unthinkable happen and a breach occur, a successful transmission will still have been worth it.\"\r\n\t\t": "＂他の2人の反対もありましたが、私たちの使命はリスクを補って余りあるほど重要です。たとえ予期せぬことが起こり漏出が発生したとしても、送信が成功したならばそれだけの価値があるのです。＂&lt;i&gt;&lt;/i&gt;",
+        "\"Despite the other two's objections, our mission is too important to risk. Even should the unthinkable happen and a breach occur, a successful transmission will still have been worth it.\"\r\n\t\t": "＂他の2人の反対もありましたが、私たちの使命はリスクを補って余りあるほど重要です。たとえ予期せぬことが起こり拡散が発生したとしても、送信が成功したならばそれだけの価値があるのです。＂&lt;i&gt;&lt;/i&gt;",
         "\"... I am sorry.\"": "＂…ごめんなさい。＂&lt;i&gt;&lt;/i&gt;",
-        "\r\n[ geode breached                                    ]\r\n[ fuel dispersed                                    ]\r\n[ life signs dwindling                              ]\r\n[ as stars at the end of a universe                 ]\r\n[                               ... connection lost ]\r\n\t\t": "［　晶洞破裂　　　　　　　　　　　　　　　　　　　　］\n［　燃料飛散　　　　　　　　　　　　　　　　　　　　］\n［　生命の兆候が減少中　　　　　　　　　　　　　　　］\n［　宇宙の終わりの星々のように　　　　　　　　　　　］\n［　　　　　　　　　　　　　　　　　　　　…接続切断］&lt;i&gt;&lt;/i&gt;",
+        "\r\n[ geode breached                                    ]\r\n[ fuel dispersed                                    ]\r\n[ life signs dwindling                              ]\r\n[ as stars at the end of a universe                 ]\r\n[                               ... connection lost ]\r\n\t\t": "［　晶洞破裂　　　　　　　　　　　　　　　　　　　　］\n［　燃料拡散　　　　　　　　　　　　　　　　　　　　］\n［　生命の兆候が減少中　　　　　　　　　　　　　　　］\n［　宇宙の終わりの星々のように　　　　　　　　　　　］\n［　　　　　　　　　　　　　　　　　　　　…接続切断］&lt;i&gt;&lt;/i&gt;",
 
         // Lingering Chime
         "\r\n[system status report:                              ]\r\n[    -neural link status: online                    ]\r\n[      -connected to: hatchling                     ]\r\n[    -space-time stabilizer: active                 ]\r\n[    -probe communication transmitter: operational  ]": "［システムステータスレポート：　　　　　　　　　　　］\n［　　－神経接続ステータス：オンライン　　　　　　　］\n［　　　－接続先：ひよっ子　　　　　　　　　　　　　］\n［　　－時空安定装置：アクティブ　　　　　　　　　　］\n［　　－探査機通信装置：動作可能　　　　　　　　　　］&lt;i&gt;&lt;/i&gt;",
@@ -181,8 +181,6 @@
         "EXPLORER: And a prelude to what comes next!": "探索者:そして、次に来ることへの前奏曲でもある！&lt;i&gt;&lt;/i&gt;"
     },
     "ShipLogDictionary": {
-        "Lingering Chime": "名残り奏",
-
         // timber_log.xml
         "Flashback Vision": "再生される映像",
         "When I died, I saw a series of images that zoomed in on one of the modules of a Nomai structure.": "私は死んだとき、Nomaiの構造物のモジュールの1つを徐々に拡大していく一連の画像を見た。",
@@ -203,9 +201,9 @@
         "A memorial to the Nomai reunion near the gravity cannon on Ember Twin.": "燃え盛る双子星の重力砲付近にあるNomaiの再会の記念樹。",
         "A Nomai named Poke believed the Ash Twin Project could be used to duplicate matter, or even people. She theorized about the possibility of increasing the Nomai population using this method.": "Pokeという名のNomaiは、灰の双子星プロジェクトを使えば物質、さらには生命さえも複製できると信じていた。彼女は、この方法を利用してNomaiの人口を増やす実現性について理論を立てていた。",
         "The Nomai feared that a shuttle colliding with Ash Twin would be fatal for any passengers.": "Nomaiはシャトルが灰の双子星と衝突すれば乗客にとって致命傷になるのではないかと懸念した。",
-        "I found a set of crystalline cairns on Ember Twin that contain a research log written by someone called Scientist.": "私は燃え盛る双子星で、科学者と呼ばれる誰かが書いた研究ログを含む一連の結晶製ケルンを見つけた。",
+        "I found a set of crystalline cairns on Ember Twin that contain a research log written by someone called Scientist.": "私は燃え盛る双子星で、科学者と呼ばれる人物が書いた研究ログを含む一連の結晶製ケルンを見つけた。",
         "One of the crystalline cairns describe two safeguards used to protect a transmission sent through something called the Astral Codec. One safeguard tests spacefaring technology and expansion beyond one's home planet. The other tests for a culture of sufficient scale.": "結晶製ケルンの1つには、アストラル･コーデックと呼ばれるものを通じて送られる通信を保護するために使用される2つの安全装置について記述されている。1つの安全装置は、宇宙飛行技術と故郷の惑星を超えた拡張具合をテストする。もう1つは、十分な規模の文化があるかどうかをテストする。",
-        "A crystalline cairn describes a third safeguard proposed by someone named Archivist. The details of this safeguard are not described on the cairn.": "結晶製ケルンには記録者という名前の誰かにより提案された3番目の安全装置について触れられている。この安全装置の詳細はそのケルンには記載されていない。",
+        "A crystalline cairn describes a third safeguard proposed by someone named Archivist. The details of this safeguard are not described on the cairn.": "結晶製ケルンには記録者という名前の人物により提案された3番目の安全装置について触れられている。この安全装置の詳細はそのケルンには記載されていない。",
         "Symbols are scattered throughout the message written on the crystalline cairn.": "結晶製ケルンに書かれたメッセージ全体にシンボルが散りばめられている。",
         "After reading one of the cairns, a hologram was projected depicting three sets of symbols: several rectangles, a large circle, and several circular symbols.": "ケルンの1つを読んだ後、3つのシンボルの集合を描いたホログラムが投影された:それはいくつかの長方形、1つの大きな円、およびいくつかの円形のシンボル。",
 
@@ -220,8 +218,44 @@
         "I detected a chiming signal coming from the surface of Dark Bramble.": "闇のイバラの地表から奏でられる信号を検出した。",
         "A Nomai research station on the surface of Dark Bramble.": "闇のイバラの地表にあるNomaiの研究所。",
         "The Nomai discovered that when an object enters Dark Bramble, the planet's interior manifests inside a separate pocket of space elsewhere within the Solar System. They noted that this phenomenon repels objects around it.": "Nomaiは、物体が闇のイバラに入ると惑星の内部が太陽系内のどこか離れた空間内に現れることを発見した。彼らはこの現象が周囲の物体と反発することを記述していた。",
-        "I found a crystalline scroll on Dark Bramble that contains a log written by someone called Explorer. The log mentions a transmission for something called the Astral Codec. Someone called Archivist discussed a safeguard to test technology that involved the sun.": "探索者と呼ばれる誰かにより書かれたログが含まれる結晶製スクロールを闇のイバラで見つけた。ログにはアストラル･コーデックと呼ばれるものの通信について言及があった。記録者と呼ばれる誰かは太陽に関係する技術をテストする安全装置について議論していた。",
+        "I found a crystalline scroll on Dark Bramble that contains a log written by someone called Explorer. The log mentions a transmission for something called the Astral Codec. Someone called Archivist discussed a safeguard to test technology that involved the sun.": "探索者と呼ばれる人物により書かれたログが含まれる結晶製スクロールを闇のイバラで見つけた。ログにはアストラル･コーデックと呼ばれるものの通信について言及があった。記録者と呼ばれる人物は太陽に関係する技術をテストする安全装置について議論していた。",
         "Symbols are scattered throughout the message stored on the crystalline scroll.": "結晶製スクロールに保存されたメッセージ全体にシンボルが散りばめられている。",
-        "When I picked up a crystalline scroll, a hologram was projected depicting the solar system. An object traveled from the edge of the solar system to a point below the sun.": "結晶製スクロールを拾ったとき、太陽系を描いたホログラムが投影された。ある物体が太陽系の端から太陽の下の点まで移動していた。"
+        "When I picked up a crystalline scroll, a hologram was projected depicting the solar system. An object traveled from the edge of the solar system to a point below the sun.": "結晶製スクロールを拾ったとき、太陽系を描いたホログラムが投影された。ある物体が太陽系の端から太陽の下の点まで移動していた。",
+
+        // lingering_chime_log.xml
+        "Lingering Chime": "名残り奏",
+        "An invisible structure far below the plane of the solar system.": "太陽系平面のはるか下にある目に見えない構造物。",
+        "The structure is composed of the same material as ghost matter crystals.": "この構造物は幽霊物質結晶と同じ物質で構成されている。",
+        "Upper Deck": "上階",
+        "There is an entrance to the structure on the sunward side.": "太陽に向いた側に構造物への入り口がある。",
+        "A sphere of water orbits inside the structure.": "水の球が構造物内部を周回している。",
+        "There is an unknown signal coming from an antenna within the structure. It's completely surrounded by ghost matter.": "構造物内のアンテナから未知の信号が送信されている。それは完全に幽霊物質に囲まれている。",
+        "There is an antenna broadcasting a chiming signal within the structure.": "構造物内にて奏でられる信号を発信するアンテナがある。",
+        "Wires run from a small platform to two devices within the structure. Symbols are chalked onto the platform that read: <![CDATA[<Color=#ff0040>]]>-;[} )&]&<![CDATA[</Color>]]>": "ケーブルは小さなプラットフォームから構造物内の2つの装置まで伸びている。プラットフォームには次のようなシンボルがチョークで書かれている:<![CDATA[<Color=#ff0040>]]>-;[} )&]&<![CDATA[</Color>]]>",
+        "Circular Display": "円の表示",
+        "There is a large circular icon displayed on a platform on the floor. Symbols are chalked onto the platform that read: <![CDATA[<Color=#ff0040>]]>&*|[+{&<![CDATA[</Color>]]>": "床のプラットフォームには大きな円形のアイコンが表示されている。プラットフォームには次のようなシンボルがチョークで書かれている:<![CDATA[<Color=#ff0040>]]>&*|[+{&<![CDATA[</Color>]]>",
+        "The icon powered off and a computer activated when the interior of Dark Bramble was blocking the light from the Sun.": "闇のイバラの内部が太陽の光を遮ると、アイコンの電源がオフとなり、コンピュータが起動した。",
+        "Tally Display": "集計の表示",
+        "There are 23 tally marks displayed on a platform on the floor. The final mark is only one-sixth full. Symbols are chalked onto the platform that read: <![CDATA[<Color=#ff0040>]]>+?+.|;}[?/<![CDATA[</Color>]]>": "床のプラットフォームには23本の集計印が表示されている。最後の印は6分の1しか満たされていない。プラットフォームには次のようなシンボルがチョークで書かれている:<![CDATA[<Color=#ff0040>]]>+?+.|;}[?/<![CDATA[</Color>]]>",
+        "After standing on a marked platform for a few seconds, I can see green trails emanating from a nearby device connected to points throughout the solar system.": "刻印されたプラットフォームの上に数秒間立った後、近くの装置から緑色の軌跡が太陽系全体の点に接続されているのが見えるようになった。",
+        "The final mark powered on and a computer activated when my clone was present in the Ash Twin Project.": "私のクローンが灰の双子星プロジェクトに存在していると、最後の印の電源が入り、コンピュータが起動した。",
+        "Icons Display": "アイコンの表示",
+        "There are 6 icons displayed on a platform on the floor. One of the icons is powered off. Symbols are chalked onto the platform that read: <![CDATA[<Color=#ff0040>]]>{+;*&*];(}<![CDATA[</Color>]]>": "床のプラットフォームには6つのアイコンが表示されている。アイコンの1つは電源がオフになっている。プラットフォームには次のようなシンボルがチョークで書かれている:<![CDATA[<Color=#ff0040>]]>{+;*&*];(}<![CDATA[</Color>]]>",
+        "After standing on a marked platform for a few seconds, I can see purple trails emanating from a nearby device connected to points throughout the solar system.": "刻印されたプラットフォームの上に数秒間立った後、近くの装置から紫色の軌跡が太陽系全体の点に接続されているのが見えるようになった。",
+        "All of the icons powered on and a computer activated when a spacecraft was present on each planet in the solar system.": "太陽系の各惑星に宇宙船が存在していると、すべてのアイコンの電源が入り、コンピュータが起動した。",
+        "Lower Deck": "下階",
+        "There is a second side of the structure below the water.": "水の下には構造物のもう1つの側面がある。",
+        "There is massive strange device at the center of the lower deck. It appears to be unpowered. Wires run to it from three other devices nearby.": "下階の中央には巨大で奇妙な装置がある。電源が入っていないように見える。近くにある他の3つの装置からケーブルが接続されている。",
+        "Interloper Fuel Geode": "侵入者の燃料晶洞",
+        "Missing Fuel Geode": "失われた燃料晶洞",
+        "A piece of the structure has broken off and is missing. A computer log describes a fuel geode breaking off and rupturing.": "構造物の一部が壊れて行方不明になっている。コンピュータのログには、燃料晶洞が壊れて破裂したことが記載されている。",
+        "I found a crystalline recorder in the core of The Interloper recorded by someone called Scientist. It describes liquid being used to neutralize ghost matter along with a warning about the impending rupture. The recorder describes a possible breach as being worth the risk in order to transmit something.": "科学者と呼ばれる人物により記録された結晶製レコーダーを侵入者のコアで見つけた。それは差し迫った破裂についての警告とともに、幽霊物質を中和するために使われる液体について述べていた。また、拡散の可能性について、何かを送信するためにはリスクを冒すだけの価値があると説明していた。",
+        "Astral Codec": "アストラル･コーデック",
+        "Something used to transmit a message from people named Archivist, Explorer, and Scientist.": "記録者、探索者、科学者という名前の人物達からのメッセージを送信するために使用されたもの。",
+        "Something used to transmit a message protected by three safeguards.": "3つの安全装置により保護されたメッセージを送信するために使われるもの。",
+        "A means of transmitting information through a vortex. It contains someone's final message.": "眼を介して情報を伝達する手段。そこには誰かの最後のメッセージが込められている。",
+        "Contains the stories of a long-gone people. It could be used to preserve our own.": "遠く過ぎ去った者達の物語が含まれている。それは私達自身のものを保存するために使用できる。",
+        "Used to transmit a message from a dying universe with hope to be remembered.": "死にゆく宇宙から、記憶に残るという希望を込めてメッセージを送信するために使われる。",
+        "I added what I knew to the message. The Astral Codec has been downloaded onto my little scout. I was asked to pass it onwards through the vortex.": "私が知っていることをメッセージに加えた。アストラル･コーデックは私のリトル･スカウトにダウンロードされた。私はそれを眼の先へ送り届けるように頼まれた。"
     }
 }
