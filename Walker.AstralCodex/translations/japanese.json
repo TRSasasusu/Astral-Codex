@@ -7,7 +7,8 @@
         "Astral Codec": "アストラル･コーデック",
         "Chime Transmitter": "奏の伝送装置",
         "Translation Probe Cinder": "翻訳探査機 残り火",
-        "Translation Probe Thicket": "翻訳探査機 密生林"
+        "Translation Probe Thicket": "翻訳探査機 密生林",
+        "Translation Probe Astral": "翻訳探査機 アストラル"
     },
     "DialogueDictionary": {
         // Slate
@@ -123,8 +124,8 @@
         "\r\n[sample collection report:                          ]\r\n[    -item: contained singularities                 ]\r\n[    -quantity: 4                                   ]\r\n[    -time since retrieval: 120 hr                  ]\r\n[    -status: containment broken - 2 lost in transit]\r\n\t\t": "［サンプル採取レポート：　　　　　　　　　　　　　　］\n［　　－品目：封じ込めた特異点　　　　　　　　　　　］\n［　　－数量：4　　　　　　　　　　　　　　　　　     ］\n［　　－取得経過時間：120 hr　　　　　　　　　　      ］\n［　　－ステータス：封じ込め破損 - 移送時2個紛失         ］&lt;i&gt;&lt;/i&gt;",
         "\r\n[sample collection report:                          ]\r\n[    -item: writing implement/musical instrument    ]\r\n[    -time since retrieval: 2462 M-hr               ]\r\n[    -translation utility: high                     ]\r\n[    -status: language database extracted           ]\r\n\t\t": "［サンプル採取レポート：　　　　　　　　　　　　　　］\n［　　－品目：筆記具／楽器　　　　　　　　　　　　　］\n［　　－取得経過時間：2462 M-hr　　　　　　　　      ］\n［　　－翻訳有用性：高　　　　　　　　　　　　　　　］\n［　　－ステータス：言語データベース抽出済み　　　　］&lt;i&gt;&lt;/i&gt;",
 
-        " _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _\r\n/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\\r\nHomeworld - crystal latices partitioning the sky.\r\n\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\r\n -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -\r\n\t\t": "\u200e　＿　　＿　　＿　　＿　　＿　　＿　　＿　　＿　　＿　\n／　＼／　＼／　＼／　＼／　＼／　＼／　＼／　＼／　＼\n故郷 - 結晶格子が空を区切る。\n＼　／＼　／＼　／＼　／＼　／＼　／＼　／＼　／＼　／\n　￣　　￣　　￣　　￣　　￣　　￣　　￣　　￣　　￣　&lt;i&gt;&lt;/i&gt;",
-        "\r\n   .   .   . .      .  .       .     .   .      . \r\n.    .  .         .        .          .          .\r\nUntold galaxies - a myriad of bodies within.\r\n   .          . .    .      .    .        .     .\r\n.      .  .    .       .       .      .     .    .\r\n\t\t": "\u200e　　．　．　　．．　　．　．　　．　　．　　．　　．　\n．　　．　．　　　　．　　　　．　　　　．　　　　　．\n計り知れない銀河 - その中にある無数の天体\n　　．　　　　　．．　．　　　．　．　　　　．　　．　\n．　　　．　．　　．　　．　　　．　　　．　　．　　．&lt;i&gt;&lt;/i&gt;",
+        " _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _\r\n/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\/ \\\r\nHomeworld - crystal latices partitioning the sky.\r\n\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\\ /\r\n -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -\r\n\t\t": "\u200b　＿　　＿　　＿　　＿　　＿　　＿　　＿　　＿　　＿　\n／　＼／　＼／　＼／　＼／　＼／　＼／　＼／　＼／　＼\n故郷 - 結晶格子が空を区切る\n＼　／＼　／＼　／＼　／＼　／＼　／＼　／＼　／＼　／\n　￣　　￣　　￣　　￣　　￣　　￣　　￣　　￣　　￣　&lt;i&gt;&lt;/i&gt;",
+        "\r\n   .   .   . .      .  .       .     .   .      . \r\n.    .  .         .        .          .          .\r\nUntold galaxies - a myriad of bodies within.\r\n   .          . .    .      .    .        .     .\r\n.      .  .    .       .       .      .     .    .\r\n\t\t": "\u200b　　．　．　　．．　　．　．　　．　　．　　．　　．　\n．　　．　．　　　　．　　　　．　　　　．　　　　　．\n計り知れない銀河 - その中にある無数の天体\n　　．　　　　　．．　．　　　．　．　　　　．　　．　\n．　　　．　．　　．　　．　　　．　　　．　　．　　．&lt;i&gt;&lt;/i&gt;",
         "0  0                                           0  0\r\n|  |  0      The thread cannot break.       0  |  |\r\n0  0  |                                     |  0  0\r\n|  |  0     We cannot all be forgotten.     0  |  |\r\n0  0                                           0  0\r\n\t\t": "０　０　　　　　　　　　　　　　　　　　　　　　０　０\n｜　｜　０　　　糸が途絶えることはない　　　０　｜　｜\n０　０　｜　　　　　　　　　　　　　　　　　｜　０　０\n｜　｜　０　我々のすべてが忘れられはしない　０　｜　｜\n０　０　　　　　　　　　　　　　　　　　　　　　０　０&lt;i&gt;&lt;/i&gt;",
         "\r\n\r\nNot even by the death of a universe.\r\n\r\n- Archivist\r\n\t\t": "たとえ宇宙の死によってさえも\n\n- 記録者",
 
